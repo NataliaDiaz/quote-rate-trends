@@ -39,11 +39,17 @@ Fictional dataset containing requests, invites and quotes over a two month perio
 See IPython notebook for full analysis on the QIR (Quote per Invite Rate). Note that it only shows the non interactive plots. To show the interactive plots and distribution and variability of each service, category and location where these are requested /invited for quoting/quoted, see:
 
 https://plot.ly/~NataliaDiazRodr/7/most-common-service-request-categories-per-location/
+
 https://plot.ly/~NataliaDiazRodr/11/number-of-service-requests-per-category/
+
 https://plot.ly/~NataliaDiazRodr/9/number-of-service-requests-per-location/
+
 https://plot.ly/~NataliaDiazRodr/11/qir-variability-over-time/
+
 https://plot.ly/~NataliaDiazRodr/78/qir-variability-per-category/
+
 https://plot.ly/~NataliaDiazRodr/64/quote-per-invite-ratio-per-category/
+
 
 
 
